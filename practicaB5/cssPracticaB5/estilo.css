@@ -1,0 +1,43 @@
+li{
+    list-style:none !important;
+}
+
+a{
+  color: black !important;
+}
+
+img:hover, button:hover{
+    cursor:pointer; 
+    cursor: hand;
+}
+
+.navbar{
+    background: #d10606;
+}
+
+.gris{
+    background: #e9e7e7;
+}
+
+.mc{
+    width: 55px;
+    color: #d10606;
+}
+
+.r:hover{
+    background: #77f077;
+}
+
+.sesion:hover, .buscar:hover{
+    background: black !important;
+    color:white !important;
+    border: black !important;
+}
+
+.sesion, .buscar{
+    color: #d10606;
+}
+
+.idioma{
+    border: #03dd03 !important;
+}
